@@ -1,0 +1,30 @@
+{
+  "name": "sw",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "crypto-js": "4.1.1",
+    "eslint-config-prettier": "8.5.0",
+    "prettier": "2.5.1",
+    "prop-types": "^15.8.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "6.2.2",
+    "short-uuid": "^4.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "1.0.7",
+    "eslint": "7.32.0",
+    "eslint-config-standard": "16.0.3",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "5.2.0",
+    "eslint-plugin-react": "7.29.3",
+    "vite": "2.8.0"
+  }
+}
