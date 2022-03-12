@@ -2,6 +2,8 @@
 
 Está aplicación permite iniciar sesión y navegar utilizado como backend la API de [Swapi.dev](https://swapi.dev/).
 
+[Ver proyecto](https://star-wars-da-door.netlify.app/)
+
 ## Uso
 
 Para iniciar sesión debe proporcionar como usuario el nombre de alguno de los personajes existentes en los enpoint de `/people`, disponibles en la API de Swapi, y la contraseña será la propiedad `hair_color` de ese mismo personaje. Por ejemplo:
